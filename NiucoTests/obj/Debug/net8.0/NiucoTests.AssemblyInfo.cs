@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NiucoTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2846dd005ac90c8ffa2066ab5720c3e982ea4c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37a7eed79d92c4c26b6710681d05ed85f592d34d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NiucoTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NiucoTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
