@@ -10,10 +10,12 @@ Desafio para inserir sondas da NASA em Marte, permitindo movimentação de cada 
 
 4 - Utilizei os padroes de projeto Strategy e Factory. Segue justificativas:
 
-4.1) Strategy: Julguei necessario seu uso pelo fato de ter varias instrucoes(Mover, Girar a Esquerda, Girar a direita) e cada instrucao tem um comportamento diferente, porem com um contrato em comum, evitando repeticao de codigo e facilitando a extensao do comportamento caso queira inserir novas instrucoes, respeitando o principio de aberto/fechado do SOLID.
+4.1) Strategy: Julguei necessario seu uso pelo fato de ter varias instrucoes(Mover, Girar a Esquerda, Girar a direita) e cada instrucao tem um comportamento diferente, porem com um contrato em comum, evitando repeticao de codigo e facilitando a extensao do comportamento caso queira inserir novas instrucoes, respeitando o principio de aberto/fechado do SOLID
 
-4.2) Factory: Criei uma classe estatica pra centralizar e isolar a responsabilidade da escolha de cada comando. Um ponto central que gerencia os comandos necessarios de acordo com caracteres de entrada.
+4.2) Factory: Criei uma classe estatica pra centralizar e isolar a responsabilidade da escolha de cada comando. Um ponto central que gerencia os comandos necessarios de acordo com caracteres de entrada
 
 5) Foi utilizado o Visual Studio 2022, para depuracao e inspecao de variavel utilizei os breakpoints, onde foi necessario apenas clicar na linha desejada e apertar F9 para inserir o breakpoint e F5 para execucao
 
 6) Utilizei o XUnit para criacao e execucao de testes unitarios, criando testes de sucesso e de erro
+
+7) Foi criado arquivo de configuracao .github/workflows/ci.yml para execucao automatico dos testes. Para visualizar o resultado basta ir no repotorio do GitHub do projeto, na aba "Actions" clicar no worflow correspondete .NET CI. 
