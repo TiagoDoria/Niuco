@@ -14,4 +14,6 @@ Desafio para inserir sondas da NASA em Marte, permitindo movimentação de cada 
 
 4.2) Factory: Criei uma classe estatica pra centralizar e isolar a responsabilidade da escolha de cada comando. Um ponto central que gerencia os comandos necessarios de acordo com caracteres de entrada.
 
-5) Foi utilizado o Visual Studio 2022, para depuracao e inspecao de variavel utilizei os breakpoints, onde foi necessario apenas clicar na linha desejada e apertar F9 para inserir o breakpoint e F5 para execucao 
+5) Foi utilizado o Visual Studio 2022, para depuracao e inspecao de variavel utilizei os breakpoints, onde foi necessario apenas clicar na linha desejada e apertar F9 para inserir o breakpoint e F5 para execucao
+
+6) Utilizei o XUnit para criacao e execucao de testes unitarios, criando testes de sucesso e de erro
