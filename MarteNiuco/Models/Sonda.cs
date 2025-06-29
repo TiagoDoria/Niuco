@@ -31,7 +31,7 @@ namespace MarteNiuco.Models
             }
 
             if (_planalto.ExisteSonda(x, y))
-                throw new InvalidOperationException("Colisão detectada com outra sonda!");
+                throw new Exception("Colisão detectada com outra sonda!");
 
             /*
                 Se tiver ultrapassado o limite ele nao atualiza as coordenadas e lanca uma exception
@@ -45,7 +45,7 @@ namespace MarteNiuco.Models
             }
             else
             {
-                throw new InvalidOperationException("Movimento fora dos limites do planalto");
+                throw new Exception("Movimento fora dos limites do planalto");
             }
         }
 

@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\refint\MarteNiuco.d
 C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.pdb
 C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.genruntimeconfig.cache
 C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\ref\MarteNiuco.dll
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.sourcelink.json

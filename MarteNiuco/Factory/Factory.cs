@@ -1,6 +1,7 @@
-﻿using MarteNiuco.Interfaces;
+﻿using MarteNiuco.Commands;
+using MarteNiuco.Interfaces;
 
-namespace MarteNiuco.Commands
+namespace MarteNiuco.Factory
 {
     public static class Factory
     {
@@ -8,12 +9,12 @@ namespace MarteNiuco.Commands
         {
             switch (comando)
             {
-                case 'M': return new MoverCommand(); 
+                case 'M': return new MoverCommand();
                 case 'L': return new EsquerdaCommand();
                 case 'R': return new DireitaCommand();
                 default:
                     throw new ArgumentException("Comando inválido");
-            }     
+            }
         }
     }
 }
