@@ -18,4 +18,9 @@ Desafio para inserir sondas da NASA em Marte, permitindo movimentação de cada 
 
 6) Utilizei o XUnit para criacao e execucao de testes unitarios, criando testes de sucesso e de erro
 
-7) Foi criado arquivo de configuracao .github/workflows/ci.yml para execucao automatico dos testes. Para visualizar o resultado basta ir no repotorio do GitHub do projeto, na aba "Actions" clicar no worflow correspondete .NET CI. 
+7) Foi criado arquivo de configuracao .github/workflows/ci.yml para execucao automatico dos testes. Para visualizar o resultado basta ir no repotorio do GitHub do projeto, na aba "Actions" clicar no worflow correspondete .NET CI.
+
+8) Algumas consideracoes de boas praticas usadas:
+   8.1) Encapsulamento: Os atributos das classes sao alterados atraves de metodos da propria classe
+   8.2) Respeitado os principios do SOLID, cada classe possui uma unica responsabilidade, e possivel extender os comandos sem necessidade de alterar a classe principal, respeito a substituicao de Liskov na interface ICommand que pode ser substituida pelas classes referentes a cada comando, utilizacao de interfaces a exemplo do ICommand e ao uso de injecao de dependencia a exemplo da program que depende de abstracoes e nao de implementacoes concretas.
+   8.3) Uso de conceitos do POO como encapsulamento, heranca, polimorfismo   
