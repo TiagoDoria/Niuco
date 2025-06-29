@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarteNiuco", "MarteNiuco\MarteNiuco.csproj", "{2B46D68D-3D8A-41A6-A46E-FA95C921EBC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarteNiuco", "MarteNiuco\MarteNiuco.csproj", "{2B46D68D-3D8A-41A6-A46E-FA95C921EBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiucoTests", "NiucoTests\NiucoTests.csproj", "{8B7413B3-A80B-4832-B27D-0AEEBA67D3A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2B46D68D-3D8A-41A6-A46E-FA95C921EBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B46D68D-3D8A-41A6-A46E-FA95C921EBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B46D68D-3D8A-41A6-A46E-FA95C921EBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7413B3-A80B-4832-B27D-0AEEBA67D3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7413B3-A80B-4832-B27D-0AEEBA67D3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7413B3-A80B-4832-B27D-0AEEBA67D3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7413B3-A80B-4832-B27D-0AEEBA67D3A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

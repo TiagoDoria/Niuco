@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\bin\Debug\net8.0\CoverletSourceRootsMapping_NiucoTests
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\obj\Debug\net8.0\NiucoTests.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\obj\Debug\net8.0\NiucoTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\obj\Debug\net8.0\NiucoTests.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\obj\Debug\net8.0\NiucoTests.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\obj\Debug\net8.0\NiucoTests.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MarteNiuco\NiucoTests\obj\Debug\net8.0\NiucoTests.sourcelink.json

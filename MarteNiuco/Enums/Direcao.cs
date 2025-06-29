@@ -3,8 +3,8 @@
     public enum Direcao
     {
         N,
-        E, 
-        S, 
+        E,
+        S,
         W
     }
 }

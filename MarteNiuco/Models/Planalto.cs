@@ -22,7 +22,7 @@
             if (x >= 0 && x <= CoordenadaX && y >= 0 && y <= CoordenadaY)
                 return false;
 
-            return true;            
+            return true;
         }
 
         /*
@@ -30,7 +30,7 @@
          */
         public bool ExisteSonda(int x, int y)
         {
-            if (sondas.Contains((x,y)))
+            if (sondas.Contains((x, y)))
                 return true;
 
             return false;
@@ -41,7 +41,7 @@
          */
         public void InsereSonda(int x, int y)
         {
-            sondas.Add((x,y));
+            sondas.Add((x, y));
         }
 
         /*

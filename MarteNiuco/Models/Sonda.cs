@@ -61,7 +61,7 @@ namespace MarteNiuco.Models
                     DirecaoAtual = Direcao.E; break; // Se Sonda tiver para o Sul, vira para o Leste
                 case Direcao.E:
                     DirecaoAtual = Direcao.N; break; // Se Sonda tiver para o Leste, vira para o Norte  
-            }       
+            }
         }
 
         public void Direita()
