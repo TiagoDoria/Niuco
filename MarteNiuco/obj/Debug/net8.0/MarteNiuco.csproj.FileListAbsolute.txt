@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\bin\Debug\net8.0\MarteNiuco.exe
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\bin\Debug\net8.0\MarteNiuco.deps.json
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\bin\Debug\net8.0\MarteNiuco.runtimeconfig.json
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\bin\Debug\net8.0\MarteNiuco.dll
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\bin\Debug\net8.0\MarteNiuco.pdb
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.dll
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\refint\MarteNiuco.dll
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.pdb
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\MarteNiuco.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MarteNiuco\MarteNiuco\obj\Debug\net8.0\ref\MarteNiuco.dll
